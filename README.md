@@ -6,4 +6,5 @@ El proyecto está diseñado para ejecutarse en un entorno de Jupyter Notebook, s
 Se necesitan dos bibliotecas de Python:
 
 import pandas as pd
+
 import matplotlib.pyplot as plt
