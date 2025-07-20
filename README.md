@@ -8,3 +8,8 @@ Se necesitan dos bibliotecas de Python:
 import pandas as pd
 
 import matplotlib.pyplot as plt
+
+
+### Posibles problemas
+
+- Falta de recursos en la plataforma Google Colab: Esperar a que tengas recursos disponibles
